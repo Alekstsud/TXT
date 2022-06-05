@@ -1,0 +1,19 @@
+ID: 
+Title: 
+Project: 
+STR:	
+		1. 
+		2. 
+Enviroment:
+		OS: 
+		Browser: 
+Component: 
+Build: 
+Actual result: 
+Expected result: 
+Severity: 
+Priority: 
+Status: 
+Author: 
+Sign to: 
+Attachments: 
